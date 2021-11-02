@@ -1,6 +1,6 @@
 # DESAFIO DIO SCRIPTS DATA BASE STARWARS
 
-## nesse desafio temos que entregar os script para criação do banco de dados de um gerenciador de naves do starwars pelo própio README.md
+## nesse desafio temos que entregar os script para criação do banco de dados de um gerenciador de naves do star wars pelo próprio README.md
 
 ## ESTRUTURA DO BANCO DE DADOS
 ## TABELA PILOTOS
